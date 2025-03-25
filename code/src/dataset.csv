@@ -1,0 +1,7 @@
+Customer_ID,Transaction_Amt,Transaction_Date,Capital_Adequacy_Ratio,Account_Type,Transaction_Type,Permanent_Account_Number,CURRENCY
+12345678,600,2019-10-01,9.5,Savings,Deposit,aeptn4035k,INR
+4321,200,2028-10-02,7.2,Checking1,Withdrawal,e235ew24sw,INR
+9123456789,-300,2024/11/03,8.8,Loan,Transfer,2wq1234ew,INR
+912345678901,900,2024-10-04,6.5,Savings,Deposit,,INR
+912345678901,700,2024-10-05,6.5,Savings,Deposit,,INR
+812345664371,1900,2024-11-04,9,Savings,Deposit,,INR
