@@ -8,7 +8,7 @@ from fuzzywuzzy import process  # Import the process object
 from datetime import datetime
 
 # Initialize the OpenAI client
-client = OpenAI(api_key="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")  # Replace with your OpenAI API key
+client = OpenAI(api_key="")  # Replace with your OpenAI API key
 # Step 1: Extract text from the PDF
 def extract_text_from_pdf(pdf_path):
     """

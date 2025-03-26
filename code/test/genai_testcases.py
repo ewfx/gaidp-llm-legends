@@ -2,6 +2,7 @@ import pytest
 from unittest.mock import patch, MagicMock
 import pandas as pd
 import json
+import os
 from gen_ai_usecase import (
     extract_text_from_pdf,
     parse_rules_with_openai,
@@ -11,7 +12,7 @@ from gen_ai_usecase import (
     validate_dataset_with_openai,
     display_violations
 )
-import os
+
 
 
 # Test 1: Rule Parsing with OpenAI
